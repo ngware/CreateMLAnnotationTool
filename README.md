@@ -1,4 +1,4 @@
-# ImageAnnotationTool
+# CreateMLAnnotationTool
 Image annotation tool for CreateML. Uses SwiftUI.
 This tool is made to generate annotation.json for your object detection image dataset. 
 
@@ -9,3 +9,5 @@ Instructions for use:
 4. Add some labels at the bottom
 5. Select a label and draw boarders on the image on the right
 6. If you made a mistake, right-click inside the boarded area and delete it
+
+7. based on the work of SergeyParfenoff
